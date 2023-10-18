@@ -1,0 +1,45 @@
+/* body{
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+   justify-content: center;
+   display: flex;
+   align-items: center;
+   padding: 30px;
+}
+
+.passBox{
+  background-color:blue;
+  padding: 20px;
+  border-radius: 10px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.passBox input{
+  outline: none;
+  padding: 5px 0px;
+}
+
+.copy{
+  border-radius: 0px 10px 10px 0px;
+  background-color: green;
+  cursor: pointer;
+
+}
+
+.copy:hover{
+  background-color: rgb(3, 3, 53);
+  outline: none;
+}
+.box {
+  display: flex;
+}
+
+.second{
+  display: flex;
+  align-items: center;
+  padding: 10px 0px;
+  gap: 10px;
+} */
